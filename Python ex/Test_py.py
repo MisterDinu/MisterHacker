@@ -1,4 +1,4 @@
-
+'''
 
 my_string="python"
 
@@ -90,6 +90,7 @@ while Conti == True:
     else:
         print("Please, insert a valid number")
 
+'''
 
 '''
 list_a=[1,2,3,4,5]
@@ -108,3 +109,4 @@ print(list_a)
 for each_index in range(len(list_a)):
     print(list_a[each_index], list_b[each_index])
 '''
+
